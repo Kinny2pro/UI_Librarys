@@ -1,6 +1,3 @@
---Yet another amazing lib from this dev team. Go show them support in their discord provided in the old lib. 
---example provided at bottom
-
 do
 	local ui = game:GetService("CoreGui"):FindFirstChild("helioslib")
 	if ui then
